@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">Will code for coffee</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrek813&label=Profile%20views&color=0e75b6&style=flat" alt="piotrek813" /> </p>
-
 - 🔭 I’m currently working on aac app for people with speech impediments **Gadacz**
 
 - 📫 How to reach me **piotreksmolinski04@gmail.com**
