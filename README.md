@@ -9,4 +9,6 @@
 <p align="left">
   <a href="https://discord.com/users/649196366731673600"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://signal.me/#eu/jpnnBmmvoRms_dOl2reV1t5MiUgZOKLINw6QCWl-TlvChoAqJ8hDvJrRK9RibzYK"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/></a>
+  <a href="mailto:piotreksmolinski04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 </p>
