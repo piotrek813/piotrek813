@@ -11,4 +11,8 @@
   <a href="https://signal.me/#eu/jpnnBmmvoRms_dOl2reV1t5MiUgZOKLINw6QCWl-TlvChoAqJ8hDvJrRK9RibzYK"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/></a>
   <a href="mailto:piotreksmolinski04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
+  [CV - Piotr Smoliński english.pdf](https://github.com/user-attachments/files/23062255/CV.-.Piotr.Smolinski.english.pdf)
+
+  [CV - Piotr Smoliński.pdf](https://github.com/user-attachments/files/23062254/CV.-.Piotr.Smolinski.pdf)
+
 </p>
