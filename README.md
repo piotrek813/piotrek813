@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on aac app for people with speech impediments **Gadacz**
 
-- ⚡ Fun fact **I use neovim btw**
+- ⚡ Time for an overused joke **I use neovim btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
